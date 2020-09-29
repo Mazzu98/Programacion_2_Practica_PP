@@ -1,0 +1,6 @@
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\OffShore\bin\Debug\OffShore.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\OffShore\bin\Debug\OffShore.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\OffShore\obj\Debug\OffShore.csprojAssemblyReference.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\OffShore\obj\Debug\OffShore.csproj.CoreCompileInputs.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\OffShore\obj\Debug\OffShore.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\OffShore\obj\Debug\OffShore.pdb

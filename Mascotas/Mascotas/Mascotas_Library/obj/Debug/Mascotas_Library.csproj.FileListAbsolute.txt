@@ -1,0 +1,6 @@
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotas_Library\bin\Debug\Mascotas_Library.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotas_Library\bin\Debug\Mascotas_Library.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotas_Library\obj\Debug\Mascotas_Library.csprojAssemblyReference.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotas_Library\obj\Debug\Mascotas_Library.csproj.CoreCompileInputs.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotas_Library\obj\Debug\Mascotas_Library.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotas_Library\obj\Debug\Mascotas_Library.pdb

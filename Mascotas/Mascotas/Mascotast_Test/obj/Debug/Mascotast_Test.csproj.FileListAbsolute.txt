@@ -1,0 +1,10 @@
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotast_Test\bin\Debug\Mascotast_Test.exe.config
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotast_Test\bin\Debug\Mascotast_Test.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotast_Test\bin\Debug\Mascotast_Test.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotast_Test\bin\Debug\Mascotas_Library.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotast_Test\bin\Debug\Mascotas_Library.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotast_Test\obj\Debug\Mascotast_Test.csprojAssemblyReference.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotast_Test\obj\Debug\Mascotast_Test.csproj.CoreCompileInputs.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotast_Test\obj\Debug\Mascotast_Test.csproj.CopyComplete
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotast_Test\obj\Debug\Mascotast_Test.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\Mascotas\Mascotas\Mascotast_Test\obj\Debug\Mascotast_Test.pdb

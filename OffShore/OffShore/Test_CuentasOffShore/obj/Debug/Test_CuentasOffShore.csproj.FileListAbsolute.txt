@@ -1,0 +1,10 @@
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\Test_CuentasOffShore\bin\Debug\Test_CuentasOffShore.exe.config
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\Test_CuentasOffShore\bin\Debug\Test_CuentasOffShore.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\Test_CuentasOffShore\bin\Debug\Test_CuentasOffShore.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\Test_CuentasOffShore\bin\Debug\OffShore.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\Test_CuentasOffShore\bin\Debug\OffShore.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\Test_CuentasOffShore\obj\Debug\Test_CuentasOffShore.csprojAssemblyReference.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\Test_CuentasOffShore\obj\Debug\Test_CuentasOffShore.csproj.CoreCompileInputs.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\Test_CuentasOffShore\obj\Debug\Test_CuentasOffShore.csproj.CopyComplete
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\Test_CuentasOffShore\obj\Debug\Test_CuentasOffShore.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\OffShore\OffShore\Test_CuentasOffShore\obj\Debug\Test_CuentasOffShore.pdb
