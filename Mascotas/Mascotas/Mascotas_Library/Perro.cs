@@ -37,7 +37,7 @@ namespace Mascotas_Library
 
         public static bool operator ==(Perro p1, Perro p2)
         {
-            return ((Mascota)p1 == (Mascota)p2);
+            return ((Mascota)p1 == (Mascota)p2) && (p1.edad == p2.edad);
         }
 
         public static bool operator !=(Perro p1, Perro p2)
