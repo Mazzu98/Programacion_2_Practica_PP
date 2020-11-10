@@ -1,0 +1,6 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\Entidades\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\Entidades\obj\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\Entidades\obj\Debug\Entidades.pdb

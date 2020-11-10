@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CajonOfFruta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <_capacidad>6</_capacidad>
+  <_frutas>
+    <Fruta xsi:type="Manzana">
+      <distribuidora>filgo</distribuidora>
+    </Fruta>
+    <Fruta xsi:type="Manzana">
+      <distribuidora>filgo</distribuidora>
+    </Fruta>
+    <Fruta xsi:type="Manzana">
+      <distribuidora>filgo</distribuidora>
+    </Fruta>
+    <Fruta xsi:type="Platano">
+      <paisOrigen>Cuba</paisOrigen>
+    </Fruta>
+    <Fruta xsi:type="Platano">
+      <paisOrigen>Arabia</paisOrigen>
+    </Fruta>
+    <Fruta xsi:type="Platano">
+      <paisOrigen>Asgard</paisOrigen>
+    </Fruta>
+  </_frutas>
+  <_precioUnitario>5</_precioUnitario>
+  <Frutas>
+    <Fruta xsi:type="Manzana">
+      <distribuidora>filgo</distribuidora>
+    </Fruta>
+    <Fruta xsi:type="Manzana">
+      <distribuidora>filgo</distribuidora>
+    </Fruta>
+    <Fruta xsi:type="Manzana">
+      <distribuidora>filgo</distribuidora>
+    </Fruta>
+    <Fruta xsi:type="Platano">
+      <paisOrigen>Cuba</paisOrigen>
+    </Fruta>
+    <Fruta xsi:type="Platano">
+      <paisOrigen>Arabia</paisOrigen>
+    </Fruta>
+    <Fruta xsi:type="Platano">
+      <paisOrigen>Asgard</paisOrigen>
+    </Fruta>
+  </Frutas>
+  <RutaArchivo>D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Practica parcial\parcial 2 de frutas\parcial 2 de frutas\Friz.Tomas\parcial 2 de frutas\bin\Debug\</RutaArchivo>
+</CajonOfFruta>

@@ -1,0 +1,10 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\parcial 2 de frutas\bin\Debug\parcial 2 de frutas.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\parcial 2 de frutas\bin\Debug\parcial 2 de frutas.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\parcial 2 de frutas\bin\Debug\parcial 2 de frutas.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\parcial 2 de frutas\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\parcial 2 de frutas\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\parcial 2 de frutas\obj\Debug\parcial 2 de frutas.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\parcial 2 de frutas\obj\Debug\parcial 2 de frutas.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\parcial 2 de frutas\obj\Debug\parcial 2 de frutas.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\parcial 2 de frutas\obj\Debug\parcial 2 de frutas.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\parcial 2 de frutas\obj\Debug\parcial 2 de frutas.pdb
